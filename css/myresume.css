@@ -1,13 +1,19 @@
 .bg-primary {
-    background-color: ##e7f703!important;
+    background-color: #424a48!important;
     background-image:url(../assets/img/asfalt-light.png)
 }
 body {
     font-family:'Noto Sanas TC',sans-serif;
+    color:#424a48;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family:'Noto Sanas TC',sans-serif;
+    color:#424a48;
 }
 .subheading {
     font-family:'Noto Sanas TC',sans-serif;
+    color:#424a48;
+}
+.text-primary{
+    color:#424a48!important;
 }
