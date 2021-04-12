@@ -1,3 +1,7 @@
+.bg-primary {
+    background-color: ##e7f703!important;
+    background-image:url(../assets/img/asfalt-light.png)
+}
 body {
     font-family:'Noto Sanas TC',sans-serif;
 }
